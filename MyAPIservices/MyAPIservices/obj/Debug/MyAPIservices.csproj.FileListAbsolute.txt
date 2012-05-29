@@ -1,0 +1,12 @@
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\MyAPIservices.dll.config
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\MyAPIservices.dll
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\MyAPIservices.pdb
+D:\Development\Services\MyAPIservices\MyAPIservices\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Services\MyAPIservices\MyAPIservices\obj\Debug\MyAPIservices.dll
+D:\Development\Services\MyAPIservices\MyAPIservices\obj\Debug\MyAPIservices.pdb
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\Microsoft.Http.dll
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\Microsoft.Http.Extensions.dll
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\Microsoft.ServiceModel.Web.dll
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\Microsoft.Http.pdb
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\Microsoft.Http.Extensions.pdb
+D:\Development\Services\MyAPIservices\MyAPIservices\bin\Debug\Microsoft.ServiceModel.Web.pdb

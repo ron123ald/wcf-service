@@ -1,0 +1,7 @@
+D:\Development\Services\MyAPIservices\MyAPIwebsite\bin\MyAPIwebsite.dll
+D:\Development\Services\MyAPIservices\MyAPIwebsite\bin\MyAPIwebsite.pdb
+D:\Development\Services\MyAPIservices\MyAPIwebsite\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Services\MyAPIservices\MyAPIwebsite\obj\Debug\MyAPIwebsite.dll
+D:\Development\Services\MyAPIservices\MyAPIwebsite\obj\Debug\MyAPIwebsite.pdb
+D:\Development\Services\MyAPIservices\MyAPIwebsite\bin\MyAPIservices.dll
+D:\Development\Services\MyAPIservices\MyAPIwebsite\bin\MyAPIservices.pdb
